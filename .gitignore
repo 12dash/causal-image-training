@@ -1,0 +1,6 @@
+
+__pycache__/
+.ipynb_checkpoints/
+
+inception_3d/
+model/*
