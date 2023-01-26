@@ -4,3 +4,5 @@ __pycache__/
 
 inception_3d/
 model/*
+
+.DS_Store
